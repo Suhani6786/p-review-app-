@@ -1,12 +1,17 @@
-# p-review-app-
-# Food Review App
+# 🍔 Food Review App
+📋 Overview
+The **Food Review App** is a simple Java-based application that allows users to register, log in, rate restaurants, and view average ratings. It provides an intuitive GUI built using **Java AWT**.
+✨ Features
 
-## Overview
-The **Food Review App** is a simple **Java-based application** that allows users to **rate restaurants** and **view average ratings**. It is built using **Java AWT** for the GUI.
+- 🔐 *User Login & Registration*
+  Users can securely create accounts and log in with their credentials.
 
-## Features
-- **User Login & Registration** – Users can create accounts and log in.
-- **Restaurant Selection** – Users choose a restaurant from a list.
-- **Rating System** – Users can rate restaurants from **1 to 5 stars**.
-- **Average Rating Calculation** – The app calculates and displays real-time average ratings.
+- 🍽️ *Restaurant Selection*
+  Users can choose a restaurant from a predefined list.
+
+- ⭐ *Rating System*
+  Submit ratings for restaurants on a scale of **1 to 5 stars**.
+
+- 📊 *Average Rating Calculation*
+  The app automatically calculates and displays the **real-time average rating** for each restaurant based on user reviews.
 
